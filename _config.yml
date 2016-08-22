@@ -1,4 +1,3 @@
-layout_spectrum: 0.9880289791617543
 typography_spectrum: 0.11358869774267077
 color:
   brandStrength: 0.23508869227953255
@@ -11,4 +10,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-name: the clinic LIFESTYLE
+layout_spectrum: 0.9880289791617543
+name: the clinic CAMPUS
+title: curating mindfulness
+description: a community space
