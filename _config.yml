@@ -1,4 +1,3 @@
-layout_spectrum: 0.4809507818426937
 typography_spectrum: 0.43045625532977283
 color:
   brandStrength: 0.3076622411608696
@@ -11,6 +10,7 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-name: the LAB
+layout_spectrum: 0.4809507818426937
+name: the CAMPUS
 title: curating mindfulness
 description: a community space
